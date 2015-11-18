@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-daqio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel preset for daq.io",
   "author": "Nathanial Hartman <nathanial.hartman@gmail.com>",
   "homepage": "https://daq.io/",
